@@ -1,1 +1,1 @@
-[DEMO GAME 2048](https://oleksandrni.github.io/2048-game/)
+[DEMO GAME 2048](https://alexandrnikytenko.github.io/2048/)
